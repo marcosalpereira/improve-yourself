@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fail">Fail</string>
+    <string name="temptation">Temptation</string>
+    <string name="failTip">Register a failure event</string>
+    <string name="temptationTip">Register a overcomed temptation event</string>
+</resources>

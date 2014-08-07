@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Improve Yourself</string>
+    <string name="action_settings">Settings</string>
+    <string name="fail">Falha</string>
+    <string name="temptation">Tentação</string>
+    <string name="failTip">Registar um evento de falha</string>
+    <string name="temptationTip">Register um evento de tentação superada</string>
+</resources>
